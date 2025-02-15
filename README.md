@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fayyazmohammad922
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on data visualization projects
 - 📫 How to reach me fayazkhankhaider90@gmail.com
 - 😄 Pronouns:he/him
 - ⚡ Fun fact: I've never eaten sushi
