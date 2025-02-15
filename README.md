@@ -2,9 +2,9 @@
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me..
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me fayazkhankhaider90@gmail.com
+- 😄 Pronouns:he/him
+- ⚡ Fun fact: I've never eaten sushi
 
 <!---
 fayyazmohammad922/fayyazmohammad922 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
